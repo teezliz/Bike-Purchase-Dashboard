@@ -49,7 +49,7 @@ This dashboard analyzes bike purchasing patterns across different demographics i
 - **Lifestyle**: Commute distance
 
 ## 🛠️ Tools Used
-- **Visualization**: Likely Power BI, Tableau, or similar BI tool
+- **Visualization**: Power BI, Excel
 - **Data Source**: Customer demographic and purchase data
 - **Analysis**: Comparative and correlational analysis
 
@@ -74,4 +74,4 @@ For questions about the analysis:
 ---
 
 *Dashboard created using business intelligence tools for demographic analysis.*
-*Last Updated: [Current Date]*
+
